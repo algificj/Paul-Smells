@@ -61,3 +61,13 @@ img {
   margin: auto;
   width: 75%;
 }
+
+input{
+    display: block;
+    margin: auto
+}
+
+button{
+     display: block;
+    margin: auto   
+}
